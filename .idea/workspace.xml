@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22750959-7ee1-4300-becc-65685a9413c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelab/stackqueue/IQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelab/stackqueue/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelab/stackqueue/QueueImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelab/stackqueue/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelab/stackqueue/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelab/stackqueue/IQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelab/stackqueue/IQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelab/stackqueue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelab/stackqueue/Queue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
